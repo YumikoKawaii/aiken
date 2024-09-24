@@ -1,0 +1,14 @@
+{
+  "preamble": {
+    "title": "misteln/aiken",
+    "description": "Aiken contracts for project 'misteln/aiken'",
+    "version": "0.0.0",
+    "plutusVersion": "v3",
+    "compiler": {
+      "name": "Aiken",
+      "version": "v1.1.1+0905146"
+    },
+    "license": "Apache-2.0"
+  },
+  "validators": []
+}
